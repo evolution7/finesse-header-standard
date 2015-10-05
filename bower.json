@@ -1,0 +1,26 @@
+{
+  "name": "finesse-header-standard",
+  "version": "0.0.0",
+  "authors": [
+    "Matt Cordell <matt@evolution7.com.au>"
+  ],
+  "description": "",
+  "main": [
+    "scss.scss",
+    "js.js"
+    ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_components",
+    "test",
+    "tests"
+  ]
+}
