@@ -2,7 +2,7 @@
 
 const $ = require('jquery');
 
-class Header {
+export default class Header {
 
     constructor() {
         this.bodyTag = $('body');
@@ -36,5 +36,3 @@ class Header {
     }
 
 }
-
-new Header;
