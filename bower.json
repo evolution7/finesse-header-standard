@@ -1,26 +1,27 @@
 {
   "name": "finesse-header-standard",
-  "version": "0.0.0",
+  "version": "1.0.0-beta.1",
   "authors": [
-    "Matt Cordell <matt@evolution7.com.au>"
+    "Evolution 7"
   ],
-  "description": "",
+  "description": "Basic header with mobile dropdown to be used with Finesse.css",
   "main": [
-    "scss.scss",
+    "_scss.scss",
     "js.js"
-    ],
+  ],
   "moduleType": [
     "es6"
   ],
   "license": "MIT",
-  "homepage": "",
-  "private": true,
+  "homepage": "http://www.evolution7.com.au",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
-    "src/bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "~1.11.3"
+  }
 }

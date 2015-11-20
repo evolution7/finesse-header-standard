@@ -1,19 +1,7 @@
-////
-/// <div class="header__overlay"></div>
-/// <div class="header">
-///     <div class="header__bar">
-///         <a href="#"><img class="header__logo" src="http://placehold.it/300x80" alt=""></a>
-///         <button class="header__toggle js-mobile-nav">Nav</button>
-///     </div>
 ///
-///     <ul class="header__nav">
-///         <li><a href="#">Nav item</a></li>
-///         <li><a class="current" href="#">Nav item</a></li>
-///         <li><a href="#">Nav item</a></li>
-///     </ul>
-/// </div>
-////
-
+/// Finesse Header (standard)
+/// Basic header with mobile dropdown to be used with Finesse.css
+///
 .header {
     @extend .cf;
     position: relative;
