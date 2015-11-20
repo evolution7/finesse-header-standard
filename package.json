@@ -1,6 +1,6 @@
 {
   "name": "finesse-header-standard",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "main": "js.js",
   "dependencies": {
     "jquery": "^1.11.3"

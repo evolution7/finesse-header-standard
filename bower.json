@@ -1,6 +1,6 @@
 {
   "name": "finesse-header-standard",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "authors": [
     "Evolution 7"
   ],
@@ -8,5 +8,12 @@
   "main": [
     "_scss.scss",
     "js.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ]
 }
