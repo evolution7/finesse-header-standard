@@ -8,20 +8,5 @@
   "main": [
     "_scss.scss",
     "js.js"
-  ],
-  "moduleType": [
-    "es6"
-  ],
-  "license": "MIT",
-  "homepage": "http://www.evolution7.com.au",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "jquery": "~1.11.3"
-  }
+  ]
 }
